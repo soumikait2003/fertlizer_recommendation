@@ -15,4 +15,4 @@ It also suggests **top 3 alternative fertilizers with cost estimation** and prov
 - 🎨 Beautiful UI with background image and transparent result cards.  
 
 
-![KrishiSahay — Crop & Fertilizer Recommendation System](bg.jpg)
+![KrishiSahay — Crop & Fertilizer Recommendation System](crop_recommendation.jpg)
