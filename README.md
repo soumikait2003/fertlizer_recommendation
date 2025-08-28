@@ -14,17 +14,5 @@ It also suggests **top 3 alternative fertilizers with cost estimation** and prov
 - 🌍 Multilingual support (**English + Hindi** toggle).  
 - 🎨 Beautiful UI with background image and transparent result cards.  
 
----
 
-## 📂 Project Structure  
-crop_recommendation/
-│── app.py # Main Streamlit app
-│── classifier.pkl # Trained ML model
-│── fertilizer.pkl # Fertilizer encoder
-│── bg.jpg # Background image
-│── requirements.txt # Dependencies
-│── README.md # Project Documentation
-
-
----
 
